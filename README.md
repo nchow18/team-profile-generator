@@ -48,8 +48,9 @@ any contribution towards codes will help
 
 Please see attached video displaying the examples
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=gyT9chQkWUY&feature=youtu.be)
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=Zxs5ktDVy3U&feature=youtu.be)
+[![Node Index](http://img.youtube.com/vi/gyT9chQkWUY/0.jpg)](http://www.youtube.com/watch?v=gyT9chQkWUY "")
+[![npm run test](http://img.youtube.com/vi/Zxs5ktDVy3U/0.jpg)](http://www.youtube.com/watch?v=Zxs5ktDVy3U "")
+
 
 ## Questions
 
