@@ -189,26 +189,20 @@ const init = (employeeData) => {
 }
 
 init()
+    .then(Data => {
+        return dataHtml(Data)
+    })
     .then(employeeData => {
-        return dataHtml(employeeData)
+        return writeFile(employeeData)
     })
-    .then(newSite => {
-        return writeFile(newSite)
+    .then(employeeData => {
+        return copyFile(employeeData);
     })
-    .then(newCSS => {
-        return copyFile();
-    })
+    .then(copyFileResponse => {
+        console.log(copyFileResponse);
+      })
     .catch(err => {
         console.log(err);
     })
-
-
-    // .then(createHtml => {
-    //     return writeFile(createHtml);
-    // })
-    // .catch(err => {
-    //     console.log(err);
-    // })
-
 
 
