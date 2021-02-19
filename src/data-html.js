@@ -26,7 +26,7 @@ const generateManager = managerArr => {
                     </div>
                     <!--EMAIL-->
                     <div class="data">
-                        Email: ${email}
+                        Email: <a href="mailto:${email}">${email}</a>
                     </div>
                     <!--SPECIAL-->
                     <div class="data">
@@ -70,11 +70,11 @@ const generateEngineer = engineerArr => {
                     </div>
                     <!--EMAIL-->
                     <div class="data">
-                        Email: ${email}
+                        Email: <a href="mailto:${email}">${email}</a>
                     </div>
                     <!--SPECIAL-->
                     <div class="data">
-                        GitHub: ${github}
+                        GitHub: <a href="https://github.com/${github}">${github}</a>
                     </div>
                 </div>
             </div>
@@ -116,7 +116,7 @@ const generateIntern = internArr => {
                     </div>
                     <!--EMAIL-->
                     <div class="data">
-                        Email: ${email}
+                        Email: <a href="mailto:${email}">${email}</a>
                     </div>
                     <!--SPECIAL-->
                     <div class="data">

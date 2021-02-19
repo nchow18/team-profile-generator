@@ -4,7 +4,7 @@
 # PROJECT TITLE: Team Employee Generator
 
 * [Link to GitHub](https://github.com/nchow18)
-* [Email]: (mailto:emailme@nathanchow.ca)
+* [Email](mailto:emailme@nathanchow.ca)
 
 ## DESCRIPTION:
 
