@@ -48,8 +48,8 @@ any contribution towards codes will help
 
 Please see attached video displaying the examples
 
-![Alt Test](https://www.youtube.com/watch?v=gyT9chQkWUY&feature=youtu.be)
-![Alt Test](https://www.youtube.com/watch?v=Zxs5ktDVy3U&feature=youtu.be)
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=gyT9chQkWUY&feature=youtu.be)
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=Zxs5ktDVy3U&feature=youtu.be)
 
 ## Questions
 
