@@ -48,7 +48,10 @@ any contribution towards codes will help
 
 Please see attached video displaying the examples
 
-[![Node Index](http://img.youtube.com/vi/gyT9chQkWUY/0.jpg)](http://www.youtube.com/watch?v=gyT9chQkWUY "")
+![Node Index](https://raw.githubusercontent.com/nchow18/team-profile-generator/main/media/node-1-4.gif)
+![Node Index](https://raw.githubusercontent.com/nchow18/team-profile-generator/main/media/node-2-4.gif)
+![Node Index](https://raw.githubusercontent.com/nchow18/team-profile-generator/main/media/node-3-4.gif)
+![Node Index](https://raw.githubusercontent.com/nchow18/team-profile-generator/main/media/node-4-4.gif)
 [![npm run test](http://img.youtube.com/vi/Zxs5ktDVy3U/0.jpg)](http://www.youtube.com/watch?v=Zxs5ktDVy3U "")
 
 
